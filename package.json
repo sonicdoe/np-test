@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "private": true,
   "publishConfig": {
     "registry": "http://example.com"
   }
