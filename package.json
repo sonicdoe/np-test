@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": "sonicdoe/np-test",
   "private": true,
   "publishConfig": {
     "registry": "http://example.com"
