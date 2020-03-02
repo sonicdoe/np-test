@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sleep 30"
+    "test": "exit 1"
   },
   "keywords": [],
   "author": "",
